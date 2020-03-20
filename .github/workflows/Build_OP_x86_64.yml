@@ -1,8 +1,7 @@
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Author: eSirPlayground
-# Youtube Channel: https://goo.gl/fvkdwm 
+# Author: Timothy-Chan-117218
 #=================================================
 
 name: Build_x86_64
